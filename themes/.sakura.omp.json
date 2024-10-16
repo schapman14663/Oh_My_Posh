@@ -101,7 +101,7 @@
                     "trailing_diamond":"\ue0b4",
                     "foreground": "#4C4C4C",
                     "background": "#C49EA0",
-                    "template": " \ue7a8 {{ .Full }} "
+                    "template": " \uf085 {{ .Full }} "
                   }
             ]
         },
